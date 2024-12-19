@@ -1,6 +1,6 @@
 %% Genetic Fuzzy and Genetic ANFIS Classification
 % Okay, what about combining evolutionary algorithms with fuzzy logic and
-% ANFIS for classification? Well, let’s push some limits!!! Data is
+% ANFIS for classification? Well, letâ€™s push some limits!!! Data is
 % consisted of 50 samples with 5 features and 5 classes. You can put your
 % data in the system and run it. You have to play with parameters depending
 % on your data and system. Right now, you can just run the code and see the
